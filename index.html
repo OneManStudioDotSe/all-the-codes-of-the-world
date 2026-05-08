@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CountryInfo Hub - Global Reference</title>
+  </head>
+  <body>
+    <div id="app">
+      <header class="app-header">
+        <div class="header-content">
+          <h1>CountryInfo <span>Hub</span></h1>
+          <div class="search-container">
+            <input type="text" id="search-input" placeholder="Search by country, code, or prefix..." autocomplete="off">
+            <div class="controls">
+              <select id="continent-filter">
+                <option value="all">All Continents</option>
+                <option value="Africa">Africa</option>
+                <option value="Americas">Americas</option>
+                <option value="Asia">Asia</option>
+                <option value="Europe">Europe</option>
+                <option value="Oceania">Oceania</option>
+              </select>
+              <select id="sort-select">
+                <option value="name">Sort by Name</option>
+                <option value="population">Sort by Population</option>
+                <option value="phone">Sort by Phone Prefix</option>
+              </select>
+              <button id="view-toggle" class="btn-toggle">Switch to Map</button>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <div class="layout-container">
+        <nav class="az-index" id="az-index">
+          <!-- A-Z links will be injected here -->
+        </nav>
+
+        <main class="content-area">
+          <div id="dictionary-view" class="view active">
+            <div id="country-list" class="country-list">
+              <!-- Country items will be injected here -->
+            </div>
+          </div>
+
+          <div id="map-view" class="view">
+            <div id="map-container">
+              <!-- SVG Map will be injected here -->
+              <div id="map-tooltip" class="map-tooltip"></div>
+            </div>
+          </div>
+        </main>
+      </div>
+
+      <div id="toast" class="toast">Copied to clipboard!</div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

@@ -1,0 +1,2502 @@
+[
+  {
+    "name": "Afghanistan",
+    "iso2": "AF",
+    "iso3": "AFG",
+    "phone": "+93",
+    "continent": "Asia",
+    "flag": "🇦🇫",
+    "capital": "Kabul",
+    "population": 43844000
+  },
+  {
+    "name": "Åland Islands",
+    "iso2": "AX",
+    "iso3": "ALA",
+    "phone": "+35818",
+    "continent": "Europe",
+    "flag": "🇦🇽",
+    "capital": "Mariehamn",
+    "population": 30654
+  },
+  {
+    "name": "Albania",
+    "iso2": "AL",
+    "iso3": "ALB",
+    "phone": "+355",
+    "continent": "Europe",
+    "flag": "🇦🇱",
+    "capital": "Tirana",
+    "population": 2363314
+  },
+  {
+    "name": "Algeria",
+    "iso2": "DZ",
+    "iso3": "DZA",
+    "phone": "+213",
+    "continent": "Africa",
+    "flag": "🇩🇿",
+    "capital": "Algiers",
+    "population": 47400000
+  },
+  {
+    "name": "American Samoa",
+    "iso2": "AS",
+    "iso3": "ASM",
+    "phone": "+1684",
+    "continent": "Oceania",
+    "flag": "🇦🇸",
+    "capital": "Pago Pago",
+    "population": 49710
+  },
+  {
+    "name": "Andorra",
+    "iso2": "AD",
+    "iso3": "AND",
+    "phone": "+376",
+    "continent": "Europe",
+    "flag": "🇦🇩",
+    "capital": "Andorra la Vella",
+    "population": 88406
+  },
+  {
+    "name": "Angola",
+    "iso2": "AO",
+    "iso3": "AGO",
+    "phone": "+244",
+    "continent": "Africa",
+    "flag": "🇦🇴",
+    "capital": "Luanda",
+    "population": 36170961
+  },
+  {
+    "name": "Anguilla",
+    "iso2": "AI",
+    "iso3": "AIA",
+    "phone": "+1264",
+    "continent": "Americas",
+    "flag": "🇦🇮",
+    "capital": "The Valley",
+    "population": 16010
+  },
+  {
+    "name": "Antarctica",
+    "iso2": "AQ",
+    "iso3": "ATA",
+    "phone": "N/A",
+    "continent": "Antarctic",
+    "flag": "🇦🇶",
+    "capital": "N/A",
+    "population": 1300
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "iso2": "AG",
+    "iso3": "ATG",
+    "phone": "+1268",
+    "continent": "Americas",
+    "flag": "🇦🇬",
+    "capital": "Saint John's",
+    "population": 103603
+  },
+  {
+    "name": "Argentina",
+    "iso2": "AR",
+    "iso3": "ARG",
+    "phone": "+54",
+    "continent": "Americas",
+    "flag": "🇦🇷",
+    "capital": "Buenos Aires",
+    "population": 46735004
+  },
+  {
+    "name": "Armenia",
+    "iso2": "AM",
+    "iso3": "ARM",
+    "phone": "+374",
+    "continent": "Asia",
+    "flag": "🇦🇲",
+    "capital": "Yerevan",
+    "population": 3076200
+  },
+  {
+    "name": "Aruba",
+    "iso2": "AW",
+    "iso3": "ABW",
+    "phone": "+297",
+    "continent": "Americas",
+    "flag": "🇦🇼",
+    "capital": "Oranjestad",
+    "population": 107566
+  },
+  {
+    "name": "Australia",
+    "iso2": "AU",
+    "iso3": "AUS",
+    "phone": "+61",
+    "continent": "Oceania",
+    "flag": "🇦🇺",
+    "capital": "Canberra",
+    "population": 27536874
+  },
+  {
+    "name": "Austria",
+    "iso2": "AT",
+    "iso3": "AUT",
+    "phone": "+43",
+    "continent": "Europe",
+    "flag": "🇦🇹",
+    "capital": "Vienna",
+    "population": 9200931
+  },
+  {
+    "name": "Azerbaijan",
+    "iso2": "AZ",
+    "iso3": "AZE",
+    "phone": "+994",
+    "continent": "Asia",
+    "flag": "🇦🇿",
+    "capital": "Baku",
+    "population": 10241722
+  },
+  {
+    "name": "Bahamas",
+    "iso2": "BS",
+    "iso3": "BHS",
+    "phone": "+1242",
+    "continent": "Americas",
+    "flag": "🇧🇸",
+    "capital": "Nassau",
+    "population": 398165
+  },
+  {
+    "name": "Bahrain",
+    "iso2": "BH",
+    "iso3": "BHR",
+    "phone": "+973",
+    "continent": "Asia",
+    "flag": "🇧🇭",
+    "capital": "Manama",
+    "population": 1594654
+  },
+  {
+    "name": "Bangladesh",
+    "iso2": "BD",
+    "iso3": "BGD",
+    "phone": "+880",
+    "continent": "Asia",
+    "flag": "🇧🇩",
+    "capital": "Dhaka",
+    "population": 169828911
+  },
+  {
+    "name": "Barbados",
+    "iso2": "BB",
+    "iso3": "BRB",
+    "phone": "+1246",
+    "continent": "Americas",
+    "flag": "🇧🇧",
+    "capital": "Bridgetown",
+    "population": 267800
+  },
+  {
+    "name": "Belarus",
+    "iso2": "BY",
+    "iso3": "BLR",
+    "phone": "+375",
+    "continent": "Europe",
+    "flag": "🇧🇾",
+    "capital": "Minsk",
+    "population": 9109280
+  },
+  {
+    "name": "Belgium",
+    "iso2": "BE",
+    "iso3": "BEL",
+    "phone": "+32",
+    "continent": "Europe",
+    "flag": "🇧🇪",
+    "capital": "Brussels",
+    "population": 11825551
+  },
+  {
+    "name": "Belize",
+    "iso2": "BZ",
+    "iso3": "BLZ",
+    "phone": "+501",
+    "continent": "Americas",
+    "flag": "🇧🇿",
+    "capital": "Belmopan",
+    "population": 417634
+  },
+  {
+    "name": "Benin",
+    "iso2": "BJ",
+    "iso3": "BEN",
+    "phone": "+229",
+    "continent": "Africa",
+    "flag": "🇧🇯",
+    "capital": "Porto-Novo",
+    "population": 13224860
+  },
+  {
+    "name": "Bermuda",
+    "iso2": "BM",
+    "iso3": "BMU",
+    "phone": "+1441",
+    "continent": "Americas",
+    "flag": "🇧🇲",
+    "capital": "Hamilton",
+    "population": 64055
+  },
+  {
+    "name": "Bhutan",
+    "iso2": "BT",
+    "iso3": "BTN",
+    "phone": "+975",
+    "continent": "Asia",
+    "flag": "🇧🇹",
+    "capital": "Thimphu",
+    "population": 784043
+  },
+  {
+    "name": "Bolivia",
+    "iso2": "BO",
+    "iso3": "BOL",
+    "phone": "+591",
+    "continent": "Americas",
+    "flag": "🇧🇴",
+    "capital": "Sucre",
+    "population": 11365333
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "iso2": "BA",
+    "iso3": "BIH",
+    "phone": "+387",
+    "continent": "Europe",
+    "flag": "🇧🇦",
+    "capital": "Sarajevo",
+    "population": 3422000
+  },
+  {
+    "name": "Botswana",
+    "iso2": "BW",
+    "iso3": "BWA",
+    "phone": "+267",
+    "continent": "Africa",
+    "flag": "🇧🇼",
+    "capital": "Gaborone",
+    "population": 2359609
+  },
+  {
+    "name": "Bouvet Island",
+    "iso2": "BV",
+    "iso3": "BVT",
+    "phone": "+47",
+    "continent": "Antarctic",
+    "flag": "🇧🇻",
+    "capital": "N/A",
+    "population": 0
+  },
+  {
+    "name": "Brazil",
+    "iso2": "BR",
+    "iso3": "BRA",
+    "phone": "+55",
+    "continent": "Americas",
+    "flag": "🇧🇷",
+    "capital": "Brasília",
+    "population": 213421037
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "iso2": "IO",
+    "iso3": "IOT",
+    "phone": "+246",
+    "continent": "Africa",
+    "flag": "🇮🇴",
+    "capital": "Diego Garcia",
+    "population": 0
+  },
+  {
+    "name": "British Virgin Islands",
+    "iso2": "VG",
+    "iso3": "VGB",
+    "phone": "+1284",
+    "continent": "Americas",
+    "flag": "🇻🇬",
+    "capital": "Road Town",
+    "population": 39471
+  },
+  {
+    "name": "Brunei",
+    "iso2": "BN",
+    "iso3": "BRN",
+    "phone": "+673",
+    "continent": "Asia",
+    "flag": "🇧🇳",
+    "capital": "Bandar Seri Begawan",
+    "population": 455500
+  },
+  {
+    "name": "Bulgaria",
+    "iso2": "BG",
+    "iso3": "BGR",
+    "phone": "+359",
+    "continent": "Europe",
+    "flag": "🇧🇬",
+    "capital": "Sofia",
+    "population": 6437360
+  },
+  {
+    "name": "Burkina Faso",
+    "iso2": "BF",
+    "iso3": "BFA",
+    "phone": "+226",
+    "continent": "Africa",
+    "flag": "🇧🇫",
+    "capital": "Ouagadougou",
+    "population": 24070553
+  },
+  {
+    "name": "Burundi",
+    "iso2": "BI",
+    "iso3": "BDI",
+    "phone": "+257",
+    "continent": "Africa",
+    "flag": "🇧🇮",
+    "capital": "Gitega",
+    "population": 12332788
+  },
+  {
+    "name": "Cambodia",
+    "iso2": "KH",
+    "iso3": "KHM",
+    "phone": "+855",
+    "continent": "Asia",
+    "flag": "🇰🇭",
+    "capital": "Phnom Penh",
+    "population": 17577760
+  },
+  {
+    "name": "Cameroon",
+    "iso2": "CM",
+    "iso3": "CMR",
+    "phone": "+237",
+    "continent": "Africa",
+    "flag": "🇨🇲",
+    "capital": "Yaoundé",
+    "population": 29442327
+  },
+  {
+    "name": "Canada",
+    "iso2": "CA",
+    "iso3": "CAN",
+    "phone": "+1",
+    "continent": "Americas",
+    "flag": "🇨🇦",
+    "capital": "Ottawa",
+    "population": 41651653
+  },
+  {
+    "name": "Cape Verde",
+    "iso2": "CV",
+    "iso3": "CPV",
+    "phone": "+238",
+    "continent": "Africa",
+    "flag": "🇨🇻",
+    "capital": "Praia",
+    "population": 491233
+  },
+  {
+    "name": "Caribbean Netherlands",
+    "iso2": "BQ",
+    "iso3": "BES",
+    "phone": "+599",
+    "continent": "Americas",
+    "flag": "🇧🇶",
+    "capital": "Kralendijk",
+    "population": 31980
+  },
+  {
+    "name": "Cayman Islands",
+    "iso2": "KY",
+    "iso3": "CYM",
+    "phone": "+1345",
+    "continent": "Americas",
+    "flag": "🇰🇾",
+    "capital": "George Town",
+    "population": 84738
+  },
+  {
+    "name": "Central African Republic",
+    "iso2": "CF",
+    "iso3": "CAF",
+    "phone": "+236",
+    "continent": "Africa",
+    "flag": "🇨🇫",
+    "capital": "Bangui",
+    "population": 6470307
+  },
+  {
+    "name": "Chad",
+    "iso2": "TD",
+    "iso3": "TCD",
+    "phone": "+235",
+    "continent": "Africa",
+    "flag": "🇹🇩",
+    "capital": "N'Djamena",
+    "population": 19340757
+  },
+  {
+    "name": "Chile",
+    "iso2": "CL",
+    "iso3": "CHL",
+    "phone": "+56",
+    "continent": "Americas",
+    "flag": "🇨🇱",
+    "capital": "Santiago",
+    "population": 20206953
+  },
+  {
+    "name": "China",
+    "iso2": "CN",
+    "iso3": "CHN",
+    "phone": "+86",
+    "continent": "Asia",
+    "flag": "🇨🇳",
+    "capital": "Beijing",
+    "population": 1408280000
+  },
+  {
+    "name": "Christmas Island",
+    "iso2": "CX",
+    "iso3": "CXR",
+    "phone": "+61",
+    "continent": "Oceania",
+    "flag": "🇨🇽",
+    "capital": "Flying Fish Cove",
+    "population": 1692
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "iso2": "CC",
+    "iso3": "CCK",
+    "phone": "+61",
+    "continent": "Oceania",
+    "flag": "🇨🇨",
+    "capital": "West Island",
+    "population": 593
+  },
+  {
+    "name": "Colombia",
+    "iso2": "CO",
+    "iso3": "COL",
+    "phone": "+57",
+    "continent": "Americas",
+    "flag": "🇨🇴",
+    "capital": "Bogotá",
+    "population": 53057212
+  },
+  {
+    "name": "Comoros",
+    "iso2": "KM",
+    "iso3": "COM",
+    "phone": "+269",
+    "continent": "Africa",
+    "flag": "🇰🇲",
+    "capital": "Moroni",
+    "population": 919901
+  },
+  {
+    "name": "Cook Islands",
+    "iso2": "CK",
+    "iso3": "COK",
+    "phone": "+682",
+    "continent": "Oceania",
+    "flag": "🇨🇰",
+    "capital": "Avarua",
+    "population": 15040
+  },
+  {
+    "name": "Costa Rica",
+    "iso2": "CR",
+    "iso3": "CRI",
+    "phone": "+506",
+    "continent": "Americas",
+    "flag": "🇨🇷",
+    "capital": "San José",
+    "population": 5309625
+  },
+  {
+    "name": "Croatia",
+    "iso2": "HR",
+    "iso3": "HRV",
+    "phone": "+385",
+    "continent": "Europe",
+    "flag": "🇭🇷",
+    "capital": "Zagreb",
+    "population": 3866233
+  },
+  {
+    "name": "Cuba",
+    "iso2": "CU",
+    "iso3": "CUB",
+    "phone": "+53",
+    "continent": "Americas",
+    "flag": "🇨🇺",
+    "capital": "Havana",
+    "population": 9748007
+  },
+  {
+    "name": "Curaçao",
+    "iso2": "CW",
+    "iso3": "CUW",
+    "phone": "+599",
+    "continent": "Americas",
+    "flag": "🇨🇼",
+    "capital": "Willemstad",
+    "population": 156115
+  },
+  {
+    "name": "Cyprus",
+    "iso2": "CY",
+    "iso3": "CYP",
+    "phone": "+357",
+    "continent": "Europe",
+    "flag": "🇨🇾",
+    "capital": "Nicosia",
+    "population": 1442614
+  },
+  {
+    "name": "Czechia",
+    "iso2": "CZ",
+    "iso3": "CZE",
+    "phone": "+420",
+    "continent": "Europe",
+    "flag": "🇨🇿",
+    "capital": "Prague",
+    "population": 10882341
+  },
+  {
+    "name": "Denmark",
+    "iso2": "DK",
+    "iso3": "DNK",
+    "phone": "+45",
+    "continent": "Europe",
+    "flag": "🇩🇰",
+    "capital": "Copenhagen",
+    "population": 6011488
+  },
+  {
+    "name": "Djibouti",
+    "iso2": "DJ",
+    "iso3": "DJI",
+    "phone": "+253",
+    "continent": "Africa",
+    "flag": "🇩🇯",
+    "capital": "Djibouti",
+    "population": 1066809
+  },
+  {
+    "name": "Dominica",
+    "iso2": "DM",
+    "iso3": "DMA",
+    "phone": "+1767",
+    "continent": "Americas",
+    "flag": "🇩🇲",
+    "capital": "Roseau",
+    "population": 67408
+  },
+  {
+    "name": "Dominican Republic",
+    "iso2": "DO",
+    "iso3": "DOM",
+    "phone": "+1",
+    "continent": "Americas",
+    "flag": "🇩🇴",
+    "capital": "Santo Domingo",
+    "population": 10771504
+  },
+  {
+    "name": "DR Congo",
+    "iso2": "CD",
+    "iso3": "COD",
+    "phone": "+243",
+    "continent": "Africa",
+    "flag": "🇨🇩",
+    "capital": "Kinshasa",
+    "population": 112832000
+  },
+  {
+    "name": "Ecuador",
+    "iso2": "EC",
+    "iso3": "ECU",
+    "phone": "+593",
+    "continent": "Americas",
+    "flag": "🇪🇨",
+    "capital": "Quito",
+    "population": 18103660
+  },
+  {
+    "name": "Egypt",
+    "iso2": "EG",
+    "iso3": "EGY",
+    "phone": "+20",
+    "continent": "Africa",
+    "flag": "🇪🇬",
+    "capital": "Cairo",
+    "population": 107271260
+  },
+  {
+    "name": "El Salvador",
+    "iso2": "SV",
+    "iso3": "SLV",
+    "phone": "+503",
+    "continent": "Americas",
+    "flag": "🇸🇻",
+    "capital": "San Salvador",
+    "population": 6029976
+  },
+  {
+    "name": "Equatorial Guinea",
+    "iso2": "GQ",
+    "iso3": "GNQ",
+    "phone": "+240",
+    "continent": "Africa",
+    "flag": "🇬🇶",
+    "capital": "Ciudad de la Paz",
+    "population": 1668768
+  },
+  {
+    "name": "Eritrea",
+    "iso2": "ER",
+    "iso3": "ERI",
+    "phone": "+291",
+    "continent": "Africa",
+    "flag": "🇪🇷",
+    "capital": "Asmara",
+    "population": 3607000
+  },
+  {
+    "name": "Estonia",
+    "iso2": "EE",
+    "iso3": "EST",
+    "phone": "+372",
+    "continent": "Europe",
+    "flag": "🇪🇪",
+    "capital": "Tallinn",
+    "population": 1369995
+  },
+  {
+    "name": "Eswatini",
+    "iso2": "SZ",
+    "iso3": "SWZ",
+    "phone": "+268",
+    "continent": "Africa",
+    "flag": "🇸🇿",
+    "capital": "Mbabane",
+    "population": 1235549
+  },
+  {
+    "name": "Ethiopia",
+    "iso2": "ET",
+    "iso3": "ETH",
+    "phone": "+251",
+    "continent": "Africa",
+    "flag": "🇪🇹",
+    "capital": "Addis Ababa",
+    "population": 111652998
+  },
+  {
+    "name": "Falkland Islands",
+    "iso2": "FK",
+    "iso3": "FLK",
+    "phone": "+500",
+    "continent": "Americas",
+    "flag": "🇫🇰",
+    "capital": "Stanley",
+    "population": 3662
+  },
+  {
+    "name": "Faroe Islands",
+    "iso2": "FO",
+    "iso3": "FRO",
+    "phone": "+298",
+    "continent": "Europe",
+    "flag": "🇫🇴",
+    "capital": "Tórshavn",
+    "population": 54885
+  },
+  {
+    "name": "Fiji",
+    "iso2": "FJ",
+    "iso3": "FJI",
+    "phone": "+679",
+    "continent": "Oceania",
+    "flag": "🇫🇯",
+    "capital": "Suva",
+    "population": 900869
+  },
+  {
+    "name": "Finland",
+    "iso2": "FI",
+    "iso3": "FIN",
+    "phone": "+358",
+    "continent": "Europe",
+    "flag": "🇫🇮",
+    "capital": "Helsinki",
+    "population": 5650325
+  },
+  {
+    "name": "France",
+    "iso2": "FR",
+    "iso3": "FRA",
+    "phone": "+33",
+    "continent": "Europe",
+    "flag": "🇫🇷",
+    "capital": "Paris",
+    "population": 66351959
+  },
+  {
+    "name": "French Guiana",
+    "iso2": "GF",
+    "iso3": "GUF",
+    "phone": "+594",
+    "continent": "Americas",
+    "flag": "🇬🇫",
+    "capital": "Cayenne",
+    "population": 292354
+  },
+  {
+    "name": "French Polynesia",
+    "iso2": "PF",
+    "iso3": "PYF",
+    "phone": "+689",
+    "continent": "Oceania",
+    "flag": "🇵🇫",
+    "capital": "Papeetē",
+    "population": 279500
+  },
+  {
+    "name": "French Southern and Antarctic Lands",
+    "iso2": "TF",
+    "iso3": "ATF",
+    "phone": "+262",
+    "continent": "Antarctic",
+    "flag": "🇹🇫",
+    "capital": "Port-aux-Français",
+    "population": 400
+  },
+  {
+    "name": "Gabon",
+    "iso2": "GA",
+    "iso3": "GAB",
+    "phone": "+241",
+    "continent": "Africa",
+    "flag": "🇬🇦",
+    "capital": "Libreville",
+    "population": 2469296
+  },
+  {
+    "name": "Gambia",
+    "iso2": "GM",
+    "iso3": "GMB",
+    "phone": "+220",
+    "continent": "Africa",
+    "flag": "🇬🇲",
+    "capital": "Banjul",
+    "population": 2422712
+  },
+  {
+    "name": "Georgia",
+    "iso2": "GE",
+    "iso3": "GEO",
+    "phone": "+995",
+    "continent": "Asia",
+    "flag": "🇬🇪",
+    "capital": "Tbilisi",
+    "population": 4000921
+  },
+  {
+    "name": "Germany",
+    "iso2": "DE",
+    "iso3": "DEU",
+    "phone": "+49",
+    "continent": "Europe",
+    "flag": "🇩🇪",
+    "capital": "Berlin",
+    "population": 83491249
+  },
+  {
+    "name": "Ghana",
+    "iso2": "GH",
+    "iso3": "GHA",
+    "phone": "+233",
+    "continent": "Africa",
+    "flag": "🇬🇭",
+    "capital": "Accra",
+    "population": 33742380
+  },
+  {
+    "name": "Gibraltar",
+    "iso2": "GI",
+    "iso3": "GIB",
+    "phone": "+350",
+    "continent": "Europe",
+    "flag": "🇬🇮",
+    "capital": "Gibraltar",
+    "population": 38000
+  },
+  {
+    "name": "Greece",
+    "iso2": "GR",
+    "iso3": "GRC",
+    "phone": "+30",
+    "continent": "Europe",
+    "flag": "🇬🇷",
+    "capital": "Athens",
+    "population": 10400720
+  },
+  {
+    "name": "Greenland",
+    "iso2": "GL",
+    "iso3": "GRL",
+    "phone": "+299",
+    "continent": "Americas",
+    "flag": "🇬🇱",
+    "capital": "Nuuk",
+    "population": 56542
+  },
+  {
+    "name": "Grenada",
+    "iso2": "GD",
+    "iso3": "GRD",
+    "phone": "+1473",
+    "continent": "Americas",
+    "flag": "🇬🇩",
+    "capital": "St. George's",
+    "population": 109021
+  },
+  {
+    "name": "Guadeloupe",
+    "iso2": "GP",
+    "iso3": "GLP",
+    "phone": "+590",
+    "continent": "Americas",
+    "flag": "🇬🇵",
+    "capital": "Basse-Terre",
+    "population": 378561
+  },
+  {
+    "name": "Guam",
+    "iso2": "GU",
+    "iso3": "GUM",
+    "phone": "+1671",
+    "continent": "Oceania",
+    "flag": "🇬🇺",
+    "capital": "Hagåtña",
+    "population": 153836
+  },
+  {
+    "name": "Guatemala",
+    "iso2": "GT",
+    "iso3": "GTM",
+    "phone": "+502",
+    "continent": "Americas",
+    "flag": "🇬🇹",
+    "capital": "Guatemala City",
+    "population": 18079810
+  },
+  {
+    "name": "Guernsey",
+    "iso2": "GG",
+    "iso3": "GGY",
+    "phone": "+44",
+    "continent": "Europe",
+    "flag": "🇬🇬",
+    "capital": "St. Peter Port",
+    "population": 64781
+  },
+  {
+    "name": "Guinea",
+    "iso2": "GN",
+    "iso3": "GIN",
+    "phone": "+224",
+    "continent": "Africa",
+    "flag": "🇬🇳",
+    "capital": "Conakry",
+    "population": 14363931
+  },
+  {
+    "name": "Guinea-Bissau",
+    "iso2": "GW",
+    "iso3": "GNB",
+    "phone": "+245",
+    "continent": "Africa",
+    "flag": "🇬🇼",
+    "capital": "Bissau",
+    "population": 1781308
+  },
+  {
+    "name": "Guyana",
+    "iso2": "GY",
+    "iso3": "GUY",
+    "phone": "+592",
+    "continent": "Americas",
+    "flag": "🇬🇾",
+    "capital": "Georgetown",
+    "population": 772975
+  },
+  {
+    "name": "Haiti",
+    "iso2": "HT",
+    "iso3": "HTI",
+    "phone": "+509",
+    "continent": "Americas",
+    "flag": "🇭🇹",
+    "capital": "Port-au-Prince",
+    "population": 11867032
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "iso2": "HM",
+    "iso3": "HMD",
+    "phone": "N/A",
+    "continent": "Antarctic",
+    "flag": "🇭🇲",
+    "capital": "N/A",
+    "population": 0
+  },
+  {
+    "name": "Honduras",
+    "iso2": "HN",
+    "iso3": "HND",
+    "phone": "+504",
+    "continent": "Americas",
+    "flag": "🇭🇳",
+    "capital": "Tegucigalpa",
+    "population": 9892632
+  },
+  {
+    "name": "Hong Kong",
+    "iso2": "HK",
+    "iso3": "HKG",
+    "phone": "+852",
+    "continent": "Asia",
+    "flag": "🇭🇰",
+    "capital": "City of Victoria",
+    "population": 7527500
+  },
+  {
+    "name": "Hungary",
+    "iso2": "HU",
+    "iso3": "HUN",
+    "phone": "+36",
+    "continent": "Europe",
+    "flag": "🇭🇺",
+    "capital": "Budapest",
+    "population": 9539502
+  },
+  {
+    "name": "Iceland",
+    "iso2": "IS",
+    "iso3": "ISL",
+    "phone": "+354",
+    "continent": "Europe",
+    "flag": "🇮🇸",
+    "capital": "Reykjavik",
+    "population": 391810
+  },
+  {
+    "name": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "phone": "+91",
+    "continent": "Asia",
+    "flag": "🇮🇳",
+    "capital": "New Delhi",
+    "population": 1417492000
+  },
+  {
+    "name": "Indonesia",
+    "iso2": "ID",
+    "iso3": "IDN",
+    "phone": "+62",
+    "continent": "Asia",
+    "flag": "🇮🇩",
+    "capital": "Jakarta",
+    "population": 284438782
+  },
+  {
+    "name": "Iran",
+    "iso2": "IR",
+    "iso3": "IRN",
+    "phone": "+98",
+    "continent": "Asia",
+    "flag": "🇮🇷",
+    "capital": "Tehran",
+    "population": 85961000
+  },
+  {
+    "name": "Iraq",
+    "iso2": "IQ",
+    "iso3": "IRQ",
+    "phone": "+964",
+    "continent": "Asia",
+    "flag": "🇮🇶",
+    "capital": "Baghdad",
+    "population": 46118793
+  },
+  {
+    "name": "Ireland",
+    "iso2": "IE",
+    "iso3": "IRL",
+    "phone": "+353",
+    "continent": "Europe",
+    "flag": "🇮🇪",
+    "capital": "Dublin",
+    "population": 5458600
+  },
+  {
+    "name": "Isle of Man",
+    "iso2": "IM",
+    "iso3": "IMN",
+    "phone": "+44",
+    "continent": "Europe",
+    "flag": "🇮🇲",
+    "capital": "Douglas",
+    "population": 84530
+  },
+  {
+    "name": "Israel",
+    "iso2": "IL",
+    "iso3": "ISR",
+    "phone": "+972",
+    "continent": "Asia",
+    "flag": "🇮🇱",
+    "capital": "Jerusalem",
+    "population": 10134800
+  },
+  {
+    "name": "Italy",
+    "iso2": "IT",
+    "iso3": "ITA",
+    "phone": "+39",
+    "continent": "Europe",
+    "flag": "🇮🇹",
+    "capital": "Rome",
+    "population": 58927633
+  },
+  {
+    "name": "Ivory Coast",
+    "iso2": "CI",
+    "iso3": "CIV",
+    "phone": "+225",
+    "continent": "Africa",
+    "flag": "🇨🇮",
+    "capital": "Yamoussoukro",
+    "population": 31719275
+  },
+  {
+    "name": "Jamaica",
+    "iso2": "JM",
+    "iso3": "JAM",
+    "phone": "+1",
+    "continent": "Americas",
+    "flag": "🇯🇲",
+    "capital": "Kingston",
+    "population": 2825544
+  },
+  {
+    "name": "Japan",
+    "iso2": "JP",
+    "iso3": "JPN",
+    "phone": "+81",
+    "continent": "Asia",
+    "flag": "🇯🇵",
+    "capital": "Tokyo",
+    "population": 123210000
+  },
+  {
+    "name": "Jersey",
+    "iso2": "JE",
+    "iso3": "JEY",
+    "phone": "+44",
+    "continent": "Europe",
+    "flag": "🇯🇪",
+    "capital": "Saint Helier",
+    "population": 103267
+  },
+  {
+    "name": "Jordan",
+    "iso2": "JO",
+    "iso3": "JOR",
+    "phone": "+962",
+    "continent": "Asia",
+    "flag": "🇯🇴",
+    "capital": "Amman",
+    "population": 11734000
+  },
+  {
+    "name": "Kazakhstan",
+    "iso2": "KZ",
+    "iso3": "KAZ",
+    "phone": "+7",
+    "continent": "Asia",
+    "flag": "🇰🇿",
+    "capital": "Astana",
+    "population": 20426568
+  },
+  {
+    "name": "Kenya",
+    "iso2": "KE",
+    "iso3": "KEN",
+    "phone": "+254",
+    "continent": "Africa",
+    "flag": "🇰🇪",
+    "capital": "Nairobi",
+    "population": 53330978
+  },
+  {
+    "name": "Kiribati",
+    "iso2": "KI",
+    "iso3": "KIR",
+    "phone": "+686",
+    "continent": "Oceania",
+    "flag": "🇰🇮",
+    "capital": "South Tarawa",
+    "population": 120740
+  },
+  {
+    "name": "Kosovo",
+    "iso2": "XK",
+    "iso3": "UNK",
+    "phone": "+383",
+    "continent": "Europe",
+    "flag": "🇽🇰",
+    "capital": "Pristina",
+    "population": 1585566
+  },
+  {
+    "name": "Kuwait",
+    "iso2": "KW",
+    "iso3": "KWT",
+    "phone": "+965",
+    "continent": "Asia",
+    "flag": "🇰🇼",
+    "capital": "Kuwait City",
+    "population": 4881254
+  },
+  {
+    "name": "Kyrgyzstan",
+    "iso2": "KG",
+    "iso3": "KGZ",
+    "phone": "+996",
+    "continent": "Asia",
+    "flag": "🇰🇬",
+    "capital": "Bishkek",
+    "population": 7281800
+  },
+  {
+    "name": "Laos",
+    "iso2": "LA",
+    "iso3": "LAO",
+    "phone": "+856",
+    "continent": "Asia",
+    "flag": "🇱🇦",
+    "capital": "Vientiane",
+    "population": 7647000
+  },
+  {
+    "name": "Latvia",
+    "iso2": "LV",
+    "iso3": "LVA",
+    "phone": "+371",
+    "continent": "Europe",
+    "flag": "🇱🇻",
+    "capital": "Riga",
+    "population": 1829000
+  },
+  {
+    "name": "Lebanon",
+    "iso2": "LB",
+    "iso3": "LBN",
+    "phone": "+961",
+    "continent": "Asia",
+    "flag": "🇱🇧",
+    "capital": "Beirut",
+    "population": 5490000
+  },
+  {
+    "name": "Lesotho",
+    "iso2": "LS",
+    "iso3": "LSO",
+    "phone": "+266",
+    "continent": "Africa",
+    "flag": "🇱🇸",
+    "capital": "Maseru",
+    "population": 2116427
+  },
+  {
+    "name": "Liberia",
+    "iso2": "LR",
+    "iso3": "LBR",
+    "phone": "+231",
+    "continent": "Africa",
+    "flag": "🇱🇷",
+    "capital": "Monrovia",
+    "population": 5248621
+  },
+  {
+    "name": "Libya",
+    "iso2": "LY",
+    "iso3": "LBY",
+    "phone": "+218",
+    "continent": "Africa",
+    "flag": "🇱🇾",
+    "capital": "Tripoli",
+    "population": 7459000
+  },
+  {
+    "name": "Liechtenstein",
+    "iso2": "LI",
+    "iso3": "LIE",
+    "phone": "+423",
+    "continent": "Europe",
+    "flag": "🇱🇮",
+    "capital": "Vaduz",
+    "population": 40900
+  },
+  {
+    "name": "Lithuania",
+    "iso2": "LT",
+    "iso3": "LTU",
+    "phone": "+370",
+    "continent": "Europe",
+    "flag": "🇱🇹",
+    "capital": "Vilnius",
+    "population": 2894886
+  },
+  {
+    "name": "Luxembourg",
+    "iso2": "LU",
+    "iso3": "LUX",
+    "phone": "+352",
+    "continent": "Europe",
+    "flag": "🇱🇺",
+    "capital": "Luxembourg",
+    "population": 681973
+  },
+  {
+    "name": "Macau",
+    "iso2": "MO",
+    "iso3": "MAC",
+    "phone": "+853",
+    "continent": "Asia",
+    "flag": "🇲🇴",
+    "capital": "N/A",
+    "population": 685900
+  },
+  {
+    "name": "Madagascar",
+    "iso2": "MG",
+    "iso3": "MDG",
+    "phone": "+261",
+    "continent": "Africa",
+    "flag": "🇲🇬",
+    "capital": "Antananarivo",
+    "population": 31727042
+  },
+  {
+    "name": "Malawi",
+    "iso2": "MW",
+    "iso3": "MWI",
+    "phone": "+265",
+    "continent": "Africa",
+    "flag": "🇲🇼",
+    "capital": "Lilongwe",
+    "population": 20734262
+  },
+  {
+    "name": "Malaysia",
+    "iso2": "MY",
+    "iso3": "MYS",
+    "phone": "+60",
+    "continent": "Asia",
+    "flag": "🇲🇾",
+    "capital": "Kuala Lumpur",
+    "population": 34231700
+  },
+  {
+    "name": "Maldives",
+    "iso2": "MV",
+    "iso3": "MDV",
+    "phone": "+960",
+    "continent": "Asia",
+    "flag": "🇲🇻",
+    "capital": "Malé",
+    "population": 515132
+  },
+  {
+    "name": "Mali",
+    "iso2": "ML",
+    "iso3": "MLI",
+    "phone": "+223",
+    "continent": "Africa",
+    "flag": "🇲🇱",
+    "capital": "Bamako",
+    "population": 22395489
+  },
+  {
+    "name": "Malta",
+    "iso2": "MT",
+    "iso3": "MLT",
+    "phone": "+356",
+    "continent": "Europe",
+    "flag": "🇲🇹",
+    "capital": "Valletta",
+    "population": 574250
+  },
+  {
+    "name": "Marshall Islands",
+    "iso2": "MH",
+    "iso3": "MHL",
+    "phone": "+692",
+    "continent": "Oceania",
+    "flag": "🇲🇭",
+    "capital": "Majuro",
+    "population": 42418
+  },
+  {
+    "name": "Martinique",
+    "iso2": "MQ",
+    "iso3": "MTQ",
+    "phone": "+596",
+    "continent": "Americas",
+    "flag": "🇲🇶",
+    "capital": "Fort-de-France",
+    "population": 349925
+  },
+  {
+    "name": "Mauritania",
+    "iso2": "MR",
+    "iso3": "MRT",
+    "phone": "+222",
+    "continent": "Africa",
+    "flag": "🇲🇷",
+    "capital": "Nouakchott",
+    "population": 4927532
+  },
+  {
+    "name": "Mauritius",
+    "iso2": "MU",
+    "iso3": "MUS",
+    "phone": "+230",
+    "continent": "Africa",
+    "flag": "🇲🇺",
+    "capital": "Port Louis",
+    "population": 1243741
+  },
+  {
+    "name": "Mayotte",
+    "iso2": "YT",
+    "iso3": "MYT",
+    "phone": "+262",
+    "continent": "Africa",
+    "flag": "🇾🇹",
+    "capital": "Mamoudzou",
+    "population": 320901
+  },
+  {
+    "name": "Mexico",
+    "iso2": "MX",
+    "iso3": "MEX",
+    "phone": "+52",
+    "continent": "Americas",
+    "flag": "🇲🇽",
+    "capital": "Mexico City",
+    "population": 130575786
+  },
+  {
+    "name": "Micronesia",
+    "iso2": "FM",
+    "iso3": "FSM",
+    "phone": "+691",
+    "continent": "Oceania",
+    "flag": "🇫🇲",
+    "capital": "Palikir",
+    "population": 105564
+  },
+  {
+    "name": "Moldova",
+    "iso2": "MD",
+    "iso3": "MDA",
+    "phone": "+373",
+    "continent": "Europe",
+    "flag": "🇲🇩",
+    "capital": "Chișinău",
+    "population": 2749076
+  },
+  {
+    "name": "Monaco",
+    "iso2": "MC",
+    "iso3": "MCO",
+    "phone": "+377",
+    "continent": "Europe",
+    "flag": "🇲🇨",
+    "capital": "Monaco",
+    "population": 38423
+  },
+  {
+    "name": "Mongolia",
+    "iso2": "MN",
+    "iso3": "MNG",
+    "phone": "+976",
+    "continent": "Asia",
+    "flag": "🇲🇳",
+    "capital": "Ulan Bator",
+    "population": 3544835
+  },
+  {
+    "name": "Montenegro",
+    "iso2": "ME",
+    "iso3": "MNE",
+    "phone": "+382",
+    "continent": "Europe",
+    "flag": "🇲🇪",
+    "capital": "Podgorica",
+    "population": 623327
+  },
+  {
+    "name": "Montserrat",
+    "iso2": "MS",
+    "iso3": "MSR",
+    "phone": "+1664",
+    "continent": "Americas",
+    "flag": "🇲🇸",
+    "capital": "Plymouth",
+    "population": 4386
+  },
+  {
+    "name": "Morocco",
+    "iso2": "MA",
+    "iso3": "MAR",
+    "phone": "+212",
+    "continent": "Africa",
+    "flag": "🇲🇦",
+    "capital": "Rabat",
+    "population": 36828330
+  },
+  {
+    "name": "Mozambique",
+    "iso2": "MZ",
+    "iso3": "MOZ",
+    "phone": "+258",
+    "continent": "Africa",
+    "flag": "🇲🇿",
+    "capital": "Maputo",
+    "population": 34090466
+  },
+  {
+    "name": "Myanmar",
+    "iso2": "MM",
+    "iso3": "MMR",
+    "phone": "+95",
+    "continent": "Asia",
+    "flag": "🇲🇲",
+    "capital": "Naypyidaw",
+    "population": 51316756
+  },
+  {
+    "name": "Namibia",
+    "iso2": "NA",
+    "iso3": "NAM",
+    "phone": "+264",
+    "continent": "Africa",
+    "flag": "🇳🇦",
+    "capital": "Windhoek",
+    "population": 3022401
+  },
+  {
+    "name": "Nauru",
+    "iso2": "NR",
+    "iso3": "NRU",
+    "phone": "+674",
+    "continent": "Oceania",
+    "flag": "🇳🇷",
+    "capital": "Yaren",
+    "population": 11680
+  },
+  {
+    "name": "Nepal",
+    "iso2": "NP",
+    "iso3": "NPL",
+    "phone": "+977",
+    "continent": "Asia",
+    "flag": "🇳🇵",
+    "capital": "Kathmandu",
+    "population": 29911840
+  },
+  {
+    "name": "Netherlands",
+    "iso2": "NL",
+    "iso3": "NLD",
+    "phone": "+31",
+    "continent": "Europe",
+    "flag": "🇳🇱",
+    "capital": "Amsterdam",
+    "population": 18100436
+  },
+  {
+    "name": "New Caledonia",
+    "iso2": "NC",
+    "iso3": "NCL",
+    "phone": "+687",
+    "continent": "Oceania",
+    "flag": "🇳🇨",
+    "capital": "Nouméa",
+    "population": 264596
+  },
+  {
+    "name": "New Zealand",
+    "iso2": "NZ",
+    "iso3": "NZL",
+    "phone": "+64",
+    "continent": "Oceania",
+    "flag": "🇳🇿",
+    "capital": "Wellington",
+    "population": 5324700
+  },
+  {
+    "name": "Nicaragua",
+    "iso2": "NI",
+    "iso3": "NIC",
+    "phone": "+505",
+    "continent": "Americas",
+    "flag": "🇳🇮",
+    "capital": "Managua",
+    "population": 6803886
+  },
+  {
+    "name": "Niger",
+    "iso2": "NE",
+    "iso3": "NER",
+    "phone": "+227",
+    "continent": "Africa",
+    "flag": "🇳🇪",
+    "capital": "Niamey",
+    "population": 26312034
+  },
+  {
+    "name": "Nigeria",
+    "iso2": "NG",
+    "iso3": "NGA",
+    "phone": "+234",
+    "continent": "Africa",
+    "flag": "🇳🇬",
+    "capital": "Abuja",
+    "population": 223800000
+  },
+  {
+    "name": "Niue",
+    "iso2": "NU",
+    "iso3": "NIU",
+    "phone": "+683",
+    "continent": "Oceania",
+    "flag": "🇳🇺",
+    "capital": "Alofi",
+    "population": 1681
+  },
+  {
+    "name": "Norfolk Island",
+    "iso2": "NF",
+    "iso3": "NFK",
+    "phone": "+672",
+    "continent": "Oceania",
+    "flag": "🇳🇫",
+    "capital": "Kingston",
+    "population": 2188
+  },
+  {
+    "name": "North Korea",
+    "iso2": "KP",
+    "iso3": "PRK",
+    "phone": "+850",
+    "continent": "Asia",
+    "flag": "🇰🇵",
+    "capital": "Pyongyang",
+    "population": 25950000
+  },
+  {
+    "name": "North Macedonia",
+    "iso2": "MK",
+    "iso3": "MKD",
+    "phone": "+389",
+    "continent": "Europe",
+    "flag": "🇲🇰",
+    "capital": "Skopje",
+    "population": 1822612
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "iso2": "MP",
+    "iso3": "MNP",
+    "phone": "+1670",
+    "continent": "Oceania",
+    "flag": "🇲🇵",
+    "capital": "Saipan",
+    "population": 47329
+  },
+  {
+    "name": "Norway",
+    "iso2": "NO",
+    "iso3": "NOR",
+    "phone": "+47",
+    "continent": "Europe",
+    "flag": "🇳🇴",
+    "capital": "Oslo",
+    "population": 5606944
+  },
+  {
+    "name": "Oman",
+    "iso2": "OM",
+    "iso3": "OMN",
+    "phone": "+968",
+    "continent": "Asia",
+    "flag": "🇴🇲",
+    "capital": "Muscat",
+    "population": 5343630
+  },
+  {
+    "name": "Pakistan",
+    "iso2": "PK",
+    "iso3": "PAK",
+    "phone": "+92",
+    "continent": "Asia",
+    "flag": "🇵🇰",
+    "capital": "Islamabad",
+    "population": 241499431
+  },
+  {
+    "name": "Palau",
+    "iso2": "PW",
+    "iso3": "PLW",
+    "phone": "+680",
+    "continent": "Oceania",
+    "flag": "🇵🇼",
+    "capital": "Ngerulmud",
+    "population": 16733
+  },
+  {
+    "name": "Palestine",
+    "iso2": "PS",
+    "iso3": "PSE",
+    "phone": "+970",
+    "continent": "Asia",
+    "flag": "🇵🇸",
+    "capital": "Ramallah",
+    "population": 5483450
+  },
+  {
+    "name": "Panama",
+    "iso2": "PA",
+    "iso3": "PAN",
+    "phone": "+507",
+    "continent": "Americas",
+    "flag": "🇵🇦",
+    "capital": "Panama City",
+    "population": 4064780
+  },
+  {
+    "name": "Papua New Guinea",
+    "iso2": "PG",
+    "iso3": "PNG",
+    "phone": "+675",
+    "continent": "Oceania",
+    "flag": "🇵🇬",
+    "capital": "Port Moresby",
+    "population": 11781559
+  },
+  {
+    "name": "Paraguay",
+    "iso2": "PY",
+    "iso3": "PRY",
+    "phone": "+595",
+    "continent": "Americas",
+    "flag": "🇵🇾",
+    "capital": "Asunción",
+    "population": 6109644
+  },
+  {
+    "name": "Peru",
+    "iso2": "PE",
+    "iso3": "PER",
+    "phone": "+51",
+    "continent": "Americas",
+    "flag": "🇵🇪",
+    "capital": "Lima",
+    "population": 34350244
+  },
+  {
+    "name": "Philippines",
+    "iso2": "PH",
+    "iso3": "PHL",
+    "phone": "+63",
+    "continent": "Asia",
+    "flag": "🇵🇭",
+    "capital": "Manila",
+    "population": 114123600
+  },
+  {
+    "name": "Pitcairn Islands",
+    "iso2": "PN",
+    "iso3": "PCN",
+    "phone": "+64",
+    "continent": "Oceania",
+    "flag": "🇵🇳",
+    "capital": "Adamstown",
+    "population": 35
+  },
+  {
+    "name": "Poland",
+    "iso2": "PL",
+    "iso3": "POL",
+    "phone": "+48",
+    "continent": "Europe",
+    "flag": "🇵🇱",
+    "capital": "Warsaw",
+    "population": 37392000
+  },
+  {
+    "name": "Portugal",
+    "iso2": "PT",
+    "iso3": "PRT",
+    "phone": "+351",
+    "continent": "Europe",
+    "flag": "🇵🇹",
+    "capital": "Lisbon",
+    "population": 10749635
+  },
+  {
+    "name": "Puerto Rico",
+    "iso2": "PR",
+    "iso3": "PRI",
+    "phone": "+1",
+    "continent": "Americas",
+    "flag": "🇵🇷",
+    "capital": "San Juan",
+    "population": 3203295
+  },
+  {
+    "name": "Qatar",
+    "iso2": "QA",
+    "iso3": "QAT",
+    "phone": "+974",
+    "continent": "Asia",
+    "flag": "🇶🇦",
+    "capital": "Doha",
+    "population": 3173024
+  },
+  {
+    "name": "Republic of the Congo",
+    "iso2": "CG",
+    "iso3": "COG",
+    "phone": "+242",
+    "continent": "Africa",
+    "flag": "🇨🇬",
+    "capital": "Brazzaville",
+    "population": 6142180
+  },
+  {
+    "name": "Réunion",
+    "iso2": "RE",
+    "iso3": "REU",
+    "phone": "+262",
+    "continent": "Africa",
+    "flag": "🇷🇪",
+    "capital": "Saint-Denis",
+    "population": 896175
+  },
+  {
+    "name": "Romania",
+    "iso2": "RO",
+    "iso3": "ROU",
+    "phone": "+40",
+    "continent": "Europe",
+    "flag": "🇷🇴",
+    "capital": "Bucharest",
+    "population": 19036031
+  },
+  {
+    "name": "Russia",
+    "iso2": "RU",
+    "iso3": "RUS",
+    "phone": "+7",
+    "continent": "Europe",
+    "flag": "🇷🇺",
+    "capital": "Moscow",
+    "population": 146028325
+  },
+  {
+    "name": "Rwanda",
+    "iso2": "RW",
+    "iso3": "RWA",
+    "phone": "+250",
+    "continent": "Africa",
+    "flag": "🇷🇼",
+    "capital": "Kigali",
+    "population": 14104969
+  },
+  {
+    "name": "Saint Barthélemy",
+    "iso2": "BL",
+    "iso3": "BLM",
+    "phone": "+590",
+    "continent": "Americas",
+    "flag": "🇧🇱",
+    "capital": "Gustavia",
+    "population": 10562
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "iso2": "SH",
+    "iso3": "SHN",
+    "phone": "+2",
+    "continent": "Africa",
+    "flag": "🇸🇭",
+    "capital": "Jamestown",
+    "population": 5651
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "iso2": "KN",
+    "iso3": "KNA",
+    "phone": "+1869",
+    "continent": "Americas",
+    "flag": "🇰🇳",
+    "capital": "Basseterre",
+    "population": 51320
+  },
+  {
+    "name": "Saint Lucia",
+    "iso2": "LC",
+    "iso3": "LCA",
+    "phone": "+1758",
+    "continent": "Americas",
+    "flag": "🇱🇨",
+    "capital": "Castries",
+    "population": 184100
+  },
+  {
+    "name": "Saint Martin",
+    "iso2": "MF",
+    "iso3": "MAF",
+    "phone": "+590",
+    "continent": "Americas",
+    "flag": "🇲🇫",
+    "capital": "Marigot",
+    "population": 31496
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "iso2": "PM",
+    "iso3": "SPM",
+    "phone": "+508",
+    "continent": "Americas",
+    "flag": "🇵🇲",
+    "capital": "Saint-Pierre",
+    "population": 5819
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "iso2": "VC",
+    "iso3": "VCT",
+    "phone": "+1784",
+    "continent": "Americas",
+    "flag": "🇻🇨",
+    "capital": "Kingstown",
+    "population": 110872
+  },
+  {
+    "name": "Samoa",
+    "iso2": "WS",
+    "iso3": "WSM",
+    "phone": "+685",
+    "continent": "Oceania",
+    "flag": "🇼🇸",
+    "capital": "Apia",
+    "population": 205557
+  },
+  {
+    "name": "San Marino",
+    "iso2": "SM",
+    "iso3": "SMR",
+    "phone": "+378",
+    "continent": "Europe",
+    "flag": "🇸🇲",
+    "capital": "City of San Marino",
+    "population": 34132
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "iso2": "ST",
+    "iso3": "STP",
+    "phone": "+239",
+    "continent": "Africa",
+    "flag": "🇸🇹",
+    "capital": "São Tomé",
+    "population": 209607
+  },
+  {
+    "name": "Saudi Arabia",
+    "iso2": "SA",
+    "iso3": "SAU",
+    "phone": "+966",
+    "continent": "Asia",
+    "flag": "🇸🇦",
+    "capital": "Riyadh",
+    "population": 35300280
+  },
+  {
+    "name": "Senegal",
+    "iso2": "SN",
+    "iso3": "SEN",
+    "phone": "+221",
+    "continent": "Africa",
+    "flag": "🇸🇳",
+    "capital": "Dakar",
+    "population": 18593258
+  },
+  {
+    "name": "Serbia",
+    "iso2": "RS",
+    "iso3": "SRB",
+    "phone": "+381",
+    "continent": "Europe",
+    "flag": "🇷🇸",
+    "capital": "Belgrade",
+    "population": 6567783
+  },
+  {
+    "name": "Seychelles",
+    "iso2": "SC",
+    "iso3": "SYC",
+    "phone": "+248",
+    "continent": "Africa",
+    "flag": "🇸🇨",
+    "capital": "Victoria",
+    "population": 122729
+  },
+  {
+    "name": "Sierra Leone",
+    "iso2": "SL",
+    "iso3": "SLE",
+    "phone": "+232",
+    "continent": "Africa",
+    "flag": "🇸🇱",
+    "capital": "Freetown",
+    "population": 9077691
+  },
+  {
+    "name": "Singapore",
+    "iso2": "SG",
+    "iso3": "SGP",
+    "phone": "+65",
+    "continent": "Asia",
+    "flag": "🇸🇬",
+    "capital": "Singapore",
+    "population": 6110200
+  },
+  {
+    "name": "Sint Maarten",
+    "iso2": "SX",
+    "iso3": "SXM",
+    "phone": "+1721",
+    "continent": "Americas",
+    "flag": "🇸🇽",
+    "capital": "Philipsburg",
+    "population": 41349
+  },
+  {
+    "name": "Slovakia",
+    "iso2": "SK",
+    "iso3": "SVK",
+    "phone": "+421",
+    "continent": "Europe",
+    "flag": "🇸🇰",
+    "capital": "Bratislava",
+    "population": 5413813
+  },
+  {
+    "name": "Slovenia",
+    "iso2": "SI",
+    "iso3": "SVN",
+    "phone": "+386",
+    "continent": "Europe",
+    "flag": "🇸🇮",
+    "capital": "Ljubljana",
+    "population": 2130638
+  },
+  {
+    "name": "Solomon Islands",
+    "iso2": "SB",
+    "iso3": "SLB",
+    "phone": "+677",
+    "continent": "Oceania",
+    "flag": "🇸🇧",
+    "capital": "Honiara",
+    "population": 750325
+  },
+  {
+    "name": "Somalia",
+    "iso2": "SO",
+    "iso3": "SOM",
+    "phone": "+252",
+    "continent": "Africa",
+    "flag": "🇸🇴",
+    "capital": "Mogadishu",
+    "population": 19655000
+  },
+  {
+    "name": "South Africa",
+    "iso2": "ZA",
+    "iso3": "ZAF",
+    "phone": "+27",
+    "continent": "Africa",
+    "flag": "🇿🇦",
+    "capital": "Pretoria",
+    "population": 63100945
+  },
+  {
+    "name": "South Georgia",
+    "iso2": "GS",
+    "iso3": "SGS",
+    "phone": "+500",
+    "continent": "Antarctic",
+    "flag": "🇬🇸",
+    "capital": "King Edward Point",
+    "population": 0
+  },
+  {
+    "name": "South Korea",
+    "iso2": "KR",
+    "iso3": "KOR",
+    "phone": "+82",
+    "continent": "Asia",
+    "flag": "🇰🇷",
+    "capital": "Seoul",
+    "population": 51159889
+  },
+  {
+    "name": "South Sudan",
+    "iso2": "SS",
+    "iso3": "SSD",
+    "phone": "+211",
+    "continent": "Africa",
+    "flag": "🇸🇸",
+    "capital": "Juba",
+    "population": 15786898
+  },
+  {
+    "name": "Spain",
+    "iso2": "ES",
+    "iso3": "ESP",
+    "phone": "+34",
+    "continent": "Europe",
+    "flag": "🇪🇸",
+    "capital": "Madrid",
+    "population": 49315949
+  },
+  {
+    "name": "Sri Lanka",
+    "iso2": "LK",
+    "iso3": "LKA",
+    "phone": "+94",
+    "continent": "Asia",
+    "flag": "🇱🇰",
+    "capital": "Sri Jayawardenepura Kotte",
+    "population": 21763170
+  },
+  {
+    "name": "Sudan",
+    "iso2": "SD",
+    "iso3": "SDN",
+    "phone": "+249",
+    "continent": "Africa",
+    "flag": "🇸🇩",
+    "capital": "Khartoum",
+    "population": 51662000
+  },
+  {
+    "name": "Suriname",
+    "iso2": "SR",
+    "iso3": "SUR",
+    "phone": "+597",
+    "continent": "Americas",
+    "flag": "🇸🇷",
+    "capital": "Paramaribo",
+    "population": 616500
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "iso2": "SJ",
+    "iso3": "SJM",
+    "phone": "+4779",
+    "continent": "Europe",
+    "flag": "🇸🇯",
+    "capital": "Longyearbyen",
+    "population": 2530
+  },
+  {
+    "name": "Sweden",
+    "iso2": "SE",
+    "iso3": "SWE",
+    "phone": "+46",
+    "continent": "Europe",
+    "flag": "🇸🇪",
+    "capital": "Stockholm",
+    "population": 10605098
+  },
+  {
+    "name": "Switzerland",
+    "iso2": "CH",
+    "iso3": "CHE",
+    "phone": "+41",
+    "continent": "Europe",
+    "flag": "🇨🇭",
+    "capital": "Bern",
+    "population": 9082848
+  },
+  {
+    "name": "Syria",
+    "iso2": "SY",
+    "iso3": "SYR",
+    "phone": "+963",
+    "continent": "Asia",
+    "flag": "🇸🇾",
+    "capital": "Damascus",
+    "population": 25620000
+  },
+  {
+    "name": "Taiwan",
+    "iso2": "TW",
+    "iso3": "TWN",
+    "phone": "+886",
+    "continent": "Asia",
+    "flag": "🇹🇼",
+    "capital": "Taipei",
+    "population": 23317031
+  },
+  {
+    "name": "Tajikistan",
+    "iso2": "TJ",
+    "iso3": "TJK",
+    "phone": "+992",
+    "continent": "Asia",
+    "flag": "🇹🇯",
+    "capital": "Dushanbe",
+    "population": 10499000
+  },
+  {
+    "name": "Tanzania",
+    "iso2": "TZ",
+    "iso3": "TZA",
+    "phone": "+255",
+    "continent": "Africa",
+    "flag": "🇹🇿",
+    "capital": "Dodoma",
+    "population": 68153004
+  },
+  {
+    "name": "Thailand",
+    "iso2": "TH",
+    "iso3": "THA",
+    "phone": "+66",
+    "continent": "Asia",
+    "flag": "🇹🇭",
+    "capital": "Bangkok",
+    "population": 65859640
+  },
+  {
+    "name": "Timor-Leste",
+    "iso2": "TL",
+    "iso3": "TLS",
+    "phone": "+670",
+    "continent": "Asia",
+    "flag": "🇹🇱",
+    "capital": "Dili",
+    "population": 1391221
+  },
+  {
+    "name": "Togo",
+    "iso2": "TG",
+    "iso3": "TGO",
+    "phone": "+228",
+    "continent": "Africa",
+    "flag": "🇹🇬",
+    "capital": "Lomé",
+    "population": 8095498
+  },
+  {
+    "name": "Tokelau",
+    "iso2": "TK",
+    "iso3": "TKL",
+    "phone": "+690",
+    "continent": "Oceania",
+    "flag": "🇹🇰",
+    "capital": "Fakaofo",
+    "population": 2608
+  },
+  {
+    "name": "Tonga",
+    "iso2": "TO",
+    "iso3": "TON",
+    "phone": "+676",
+    "continent": "Oceania",
+    "flag": "🇹🇴",
+    "capital": "Nuku'alofa",
+    "population": 100179
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "iso2": "TT",
+    "iso3": "TTO",
+    "phone": "+1868",
+    "continent": "Americas",
+    "flag": "🇹🇹",
+    "capital": "Port of Spain",
+    "population": 1367764
+  },
+  {
+    "name": "Tunisia",
+    "iso2": "TN",
+    "iso3": "TUN",
+    "phone": "+216",
+    "continent": "Africa",
+    "flag": "🇹🇳",
+    "capital": "Tunis",
+    "population": 11972169
+  },
+  {
+    "name": "Turkey",
+    "iso2": "TR",
+    "iso3": "TUR",
+    "phone": "+90",
+    "continent": "Asia",
+    "flag": "🇹🇷",
+    "capital": "Ankara",
+    "population": 85664944
+  },
+  {
+    "name": "Turkmenistan",
+    "iso2": "TM",
+    "iso3": "TKM",
+    "phone": "+993",
+    "continent": "Asia",
+    "flag": "🇹🇲",
+    "capital": "Ashgabat",
+    "population": 7057841
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "iso2": "TC",
+    "iso3": "TCA",
+    "phone": "+1649",
+    "continent": "Americas",
+    "flag": "🇹🇨",
+    "capital": "Cockburn Town",
+    "population": 50828
+  },
+  {
+    "name": "Tuvalu",
+    "iso2": "TV",
+    "iso3": "TUV",
+    "phone": "+688",
+    "continent": "Oceania",
+    "flag": "🇹🇻",
+    "capital": "Funafuti",
+    "population": 10643
+  },
+  {
+    "name": "Uganda",
+    "iso2": "UG",
+    "iso3": "UGA",
+    "phone": "+256",
+    "continent": "Africa",
+    "flag": "🇺🇬",
+    "capital": "Kampala",
+    "population": 45905417
+  },
+  {
+    "name": "Ukraine",
+    "iso2": "UA",
+    "iso3": "UKR",
+    "phone": "+380",
+    "continent": "Europe",
+    "flag": "🇺🇦",
+    "capital": "Kyiv",
+    "population": 32862000
+  },
+  {
+    "name": "United Arab Emirates",
+    "iso2": "AE",
+    "iso3": "ARE",
+    "phone": "+971",
+    "continent": "Asia",
+    "flag": "🇦🇪",
+    "capital": "Abu Dhabi",
+    "population": 11294243
+  },
+  {
+    "name": "United Kingdom",
+    "iso2": "GB",
+    "iso3": "GBR",
+    "phone": "+44",
+    "continent": "Europe",
+    "flag": "🇬🇧",
+    "capital": "London",
+    "population": 69281437
+  },
+  {
+    "name": "United States",
+    "iso2": "US",
+    "iso3": "USA",
+    "phone": "+1",
+    "continent": "Americas",
+    "flag": "🇺🇸",
+    "capital": "Washington, D.C.",
+    "population": 340110988
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "iso2": "UM",
+    "iso3": "UMI",
+    "phone": "+268",
+    "continent": "Americas",
+    "flag": "🇺🇲",
+    "capital": "Washington DC",
+    "population": 0
+  },
+  {
+    "name": "United States Virgin Islands",
+    "iso2": "VI",
+    "iso3": "VIR",
+    "phone": "+1340",
+    "continent": "Americas",
+    "flag": "🇻🇮",
+    "capital": "Charlotte Amalie",
+    "population": 87146
+  },
+  {
+    "name": "Uruguay",
+    "iso2": "UY",
+    "iso3": "URY",
+    "phone": "+598",
+    "continent": "Americas",
+    "flag": "🇺🇾",
+    "capital": "Montevideo",
+    "population": 3499451
+  },
+  {
+    "name": "Uzbekistan",
+    "iso2": "UZ",
+    "iso3": "UZB",
+    "phone": "+998",
+    "continent": "Asia",
+    "flag": "🇺🇿",
+    "capital": "Tashkent",
+    "population": 37859698
+  },
+  {
+    "name": "Vanuatu",
+    "iso2": "VU",
+    "iso3": "VUT",
+    "phone": "+678",
+    "continent": "Oceania",
+    "flag": "🇻🇺",
+    "capital": "Port Vila",
+    "population": 321409
+  },
+  {
+    "name": "Vatican City",
+    "iso2": "VA",
+    "iso3": "VAT",
+    "phone": "+3",
+    "continent": "Europe",
+    "flag": "🇻🇦",
+    "capital": "Vatican City",
+    "population": 882
+  },
+  {
+    "name": "Venezuela",
+    "iso2": "VE",
+    "iso3": "VEN",
+    "phone": "+58",
+    "continent": "Americas",
+    "flag": "🇻🇪",
+    "capital": "Caracas",
+    "population": 28517000
+  },
+  {
+    "name": "Vietnam",
+    "iso2": "VN",
+    "iso3": "VNM",
+    "phone": "+84",
+    "continent": "Asia",
+    "flag": "🇻🇳",
+    "capital": "Hanoi",
+    "population": 101343800
+  },
+  {
+    "name": "Wallis and Futuna",
+    "iso2": "WF",
+    "iso3": "WLF",
+    "phone": "+681",
+    "continent": "Oceania",
+    "flag": "🇼🇫",
+    "capital": "Mata-Utu",
+    "population": 11620
+  },
+  {
+    "name": "Western Sahara",
+    "iso2": "EH",
+    "iso3": "ESH",
+    "phone": "+2",
+    "continent": "Africa",
+    "flag": "🇪🇭",
+    "capital": "El Aaiún",
+    "population": 600904
+  },
+  {
+    "name": "Yemen",
+    "iso2": "YE",
+    "iso3": "YEM",
+    "phone": "+967",
+    "continent": "Asia",
+    "flag": "🇾🇪",
+    "capital": "Sana'a",
+    "population": 32684503
+  },
+  {
+    "name": "Zambia",
+    "iso2": "ZM",
+    "iso3": "ZMB",
+    "phone": "+260",
+    "continent": "Africa",
+    "flag": "🇿🇲",
+    "capital": "Lusaka",
+    "population": 19693423
+  },
+  {
+    "name": "Zimbabwe",
+    "iso2": "ZW",
+    "iso3": "ZWE",
+    "phone": "+263",
+    "continent": "Africa",
+    "flag": "🇿🇼",
+    "capital": "Harare",
+    "population": 17073087
+  }
+]
