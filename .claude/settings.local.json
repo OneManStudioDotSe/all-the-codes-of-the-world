@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:ivanceras.github.io)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:casual-effects.com)",
+      "WebFetch(domain:www.augustinfotech.com)",
+      "WebFetch(domain:google.github.io)",
+      "Bash(open /Users/sotirisfalieris/Documents/Repos/Web/ascii-diagram-viewer/index.html)",
+      "Bash(node --check app.js)",
+      "Bash(node -e \":*)",
+      "Bash(npx tsc *)",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}
